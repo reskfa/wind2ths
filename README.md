@@ -4,7 +4,6 @@
 
 Wind2THS 是一个 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 自定义 Slash Command，能够自动将你的 Wind（万得）Python 量化代码迁移为同花顺 iFinD API 代码。
 
-> 迁移成本大？—— 它来了。
 
 ## 它能做什么
 
