@@ -2,7 +2,7 @@
 
 **Wind用户转Ths Skill**
 
-Wind2THS 是一个 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 自定义 Slash Command，能够自动将你的 Wind（万得）Python 量化代码迁移为同花顺 iFinD API 代码。
+Wind2THS（万得转同花顺） 是一个 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 自定义 Slash Command，实现一条命令将 万得Wind API 的代码迁移为同花顺 iFinD API(ths) 代码。覆盖 10+ 函数、50+ 字段 、映射，自动处理字段分隔符、日期格式、认证方式、返回值格式等所有差异。
 
 
 ## 它能做什么
