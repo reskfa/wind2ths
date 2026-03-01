@@ -1,11 +1,10 @@
 # Wind2THS
 
-**一条命令，告别天价 Wind 终端。**
+**Wind用户转Ths Skill**
 
 Wind2THS 是一个 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 自定义 Slash Command，能够自动将你的 Wind（万得）Python 量化代码迁移为同花顺 iFinD API 代码。
 
-> Wind 终端一年好几万，iFinD 只要几千块，API 功能几乎等价。
-> 唯一的迁移成本？现在也没有了。
+> 迁移成本大？—— 它来了。
 
 ## 它能做什么
 
