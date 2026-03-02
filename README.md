@@ -54,7 +54,7 @@ npm install -g @anthropic-ai/claude-code
 ### 2. 克隆本项目
 
 ```bash
-git clone https://github.com/yourname/wind2ths.git
+git clone https://github.com/reskfa/wind2ths.git
 cd wind2ths
 ```
 
